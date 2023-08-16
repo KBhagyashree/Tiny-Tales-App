@@ -1,1 +1,1 @@
-# short-stories-blog
+# Tiny Tales App
