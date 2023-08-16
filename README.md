@@ -2,4 +2,4 @@
 
 A ReactJS based Blogging App. 
 
-![StartPage](main/TinyTalesAppAllBlogsDeletedorStartPage.jpg)
+![StartPage](TinyTalesAppAllBlogsDeletedorStartPage.jpg)
